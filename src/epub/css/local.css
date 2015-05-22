@@ -130,6 +130,10 @@ span[epub|type~="subtitle"]{
 	font-weight: normal;
 }
 
+abbr.era{
+	font-variant: all-small-caps;
+}
+
 /* helpful during drafting */
 *[epub|type~="z3998:roman"],
 *[lang]:not(html),
