@@ -22,10 +22,10 @@
 		<dc:subject id="subject-2">Satire</dc:subject>
 		<dc:subject id="subject-3">Knights and knighthood -- Fiction</dc:subject>
 		<dc:subject id="subject-4">Arthurian romances -- Adaptations</dc:subject>
-		<dc:subject id="subject-2">Time travel -- Fiction</dc:subject>
-		<dc:subject id="subject-2">Americans -- Great Britain -- Fiction</dc:subject>
-		<dc:subject id="subject-2">Kings and rulers -- Fiction</dc:subject>
-		<dc:subject id="subject-2">Britons -- Fiction</dc:subject>
+		<dc:subject id="subject-5">Time travel -- Fiction</dc:subject>
+		<dc:subject id="subject-6">Americans -- Great Britain -- Fiction</dc:subject>
+		<dc:subject id="subject-7">Kings and rulers -- Fiction</dc:subject>
+		<dc:subject id="subject-8">Britons -- Fiction</dc:subject>
 		<meta property="meta-auth" refines="#subject-1">http://www.gutenberg.org/ebooks/86</meta>
 		<meta property="meta-auth" refines="#subject-2">http://www.gutenberg.org/ebooks/86</meta>
 		<meta property="meta-auth" refines="#subject-3">http://www.gutenberg.org/ebooks/86</meta>
