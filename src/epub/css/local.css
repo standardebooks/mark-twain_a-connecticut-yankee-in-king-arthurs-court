@@ -1,6 +1,11 @@
 @charset "UTF-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
+b{
+	font-weight: normal;
+	font-variant: small-caps;
+}
+
 *[epub|type~="z3998:letter"],
 *[epub|type~="z3998:poem"],
 *[epub|type~="z3998:song"],
@@ -66,7 +71,8 @@ footer{
 }
 
 .newspaper,
-.gossip{
+.gossip,
+.proclamation{
 	margin: 1em;
 }
 
@@ -75,8 +81,10 @@ footer{
 }
 
 .newspaper + p,
+.newspaper p:first-child,
 .gossip + p,
-table + p{
+table + p,
+.proclamation + p{
 	text-indent: 0;
 }
 
@@ -106,6 +114,15 @@ table{
 
 table thead{
 	font-variant: small-caps;
+}
+
+.proclamation footer{
+	text-align: left;
+	margin: 0;
+}
+
+.proclamation footer p{
+	text-indent: 0;
 }
 
 /* helpful during drafting */
