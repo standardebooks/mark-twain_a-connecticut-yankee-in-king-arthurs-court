@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" prefix="cc: http://creativecommons.org/ns, se: http://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/mark-twain/a-connecticut-yankee-in-king-arthurs-court</dc:identifier>
-		<dc:date>RELEASEDATE</dc:date>
-		<meta property="dcterms:modified">MODIFIEDDATE</meta>
+		<dc:date>2015-05-22T06:41:05Z</dc:date>
+		<meta property="dcterms:modified">2015-05-22T06:41:05Z</meta>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
 		<meta property="se:url.homepage" refines="#publisher">https://standardebooks.org</meta>
@@ -45,7 +45,7 @@
 		<dc:language>en-US</dc:language>
 		<dc:source>http://www.gutenberg.org/ebooks/86</dc:source>
 		<dc:source>http://catalog.hathitrust.org/Record/000665090</dc:source>
-		<meta property="se:word-count">0</meta>
+		<meta property="se:word-count">119465</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/A_Connecticut_Yankee_in_King_Arthur%27s_Court</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/mark-twain_a-connecticut-yankee-in-king-arthurs-court</meta>
 		<dc:creator id="author">Mark Twain</dc:creator>
