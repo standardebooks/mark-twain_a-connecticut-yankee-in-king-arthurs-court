@@ -68,16 +68,22 @@ footer{
 .newspaper,
 .gossip{
 	margin: 1em;
+}
+
+.gossip p:first-child{
 	text-align: center;
 }
 
 .newspaper + p,
-.gossip + p{
+.gossip + p,
+table + p{
 	text-indent: 0;
 }
 
 .newspaper p + p{
 	border-top: solid;
+	margin-top: .25em;
+	padding-top: .25em;
 }
 
 .newspaper .headline{
@@ -92,6 +98,10 @@ footer{
 
 .misprint{
 	vertical-align: sub;
+}
+
+table{
+	margin: 1em;
 }
 
 table thead{
