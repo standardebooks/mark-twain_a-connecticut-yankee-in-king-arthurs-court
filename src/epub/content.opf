@@ -31,6 +31,7 @@
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>http://www.gutenberg.org/ebooks/86</dc:source>
+		<dc:source>http://catalog.hathitrust.org/Record/000665090</dc:source>
 		<meta property="se:word-count">0</meta>
 		<meta property="se:url.encyclopedia.wikipedia">WIKILINK</meta>
 		<dc:creator id="author">Mark Twain</dc:creator>
