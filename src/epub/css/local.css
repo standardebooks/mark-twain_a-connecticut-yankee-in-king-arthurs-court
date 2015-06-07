@@ -126,9 +126,10 @@ abbr.era{
 	font-variant: all-small-caps;
 }
 
-/* helpful during drafting */
-*[epub|type~="z3998:roman"],
-*[lang]:not(html),
-abbr{
-	background: #C0C0C0;
+section[epub|type~="rearnotes"] > ol > li > p:first-child{
+	text-indent: 0;
+}
+
+section[epub|type~="rearnotes"] > ol > li{
+	margin: 1em 0;
 }
