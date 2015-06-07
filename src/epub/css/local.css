@@ -58,6 +58,11 @@ footer{
 	font-variant: small-caps;
 }
 
+.proclamation footer,
+.signature{
+	text-align: right;
+}
+
 .symbol{
 	font-variant: all-small-caps;
 }
@@ -68,12 +73,13 @@ footer{
 	margin: 1em;
 }
 
+.newspaper,
 .gossip p:first-child{
 	text-align: center;
 }
 
+.newspaper p,
 .newspaper + p,
-.newspaper p:first-child,
 .gossip + p,
 table + p,
 .proclamation + p{
@@ -101,19 +107,28 @@ table + p,
 }
 
 table{
-	margin: 1em;
+	margin: 1em auto;
+}
+
+table td{
+	padding: .5em;
 }
 
 table thead{
 	font-variant: small-caps;
 }
 
+.proclamation header p{
+	text-indent: 0;
+	text-align: center;
+	font-variant: small-caps;
+}
+
 .proclamation footer{
-	text-align: left;
 	margin: 0;
 }
 
-.proclamation footer p{
+.proclamation p{
 	text-indent: 0;
 }
 
