@@ -137,7 +137,8 @@ span[epub|type~="subtitle"]{
 	font-weight: normal;
 }
 
-abbr.era{
+abbr.era,
+abbr.initialism{
 	font-variant: all-small-caps;
 }
 
@@ -148,3 +149,8 @@ section[epub|type~="rearnotes"] > ol > li > p:first-child{
 section[epub|type~="rearnotes"] > ol > li{
 	margin: 1em 0;
 }
+
+abbr.name{
+	white-space: nowrap;
+}
+
