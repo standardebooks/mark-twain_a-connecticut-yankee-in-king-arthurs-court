@@ -68,21 +68,12 @@ footer{
 }
 
 .newspaper,
-.gossip,
-.proclamation{
-	margin: 1em;
-}
-
-.newspaper,
 .gossip p:first-child{
 	text-align: center;
 }
 
 .newspaper p,
-.newspaper + p,
-.gossip + p,
-table + p,
-.proclamation + p{
+table + p{
 	text-indent: 0;
 }
 
@@ -153,4 +144,3 @@ section[epub|type~="rearnotes"] > ol > li{
 abbr.name{
 	white-space: nowrap;
 }
-
