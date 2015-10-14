@@ -6,48 +6,6 @@ b{
 	font-variant: small-caps;
 }
 
-*[epub|type~="z3998:letter"],
-*[epub|type~="z3998:poem"],
-*[epub|type~="z3998:song"],
-*[epub|type~="subchapter"]{
-	margin: 1em;
-}
-
-*[epub|type~="z3998:letter"] + p,
-*[epub|type~="z3998:poem"] + p,
-*[epub|type~="z3998:song"] + p,
-*[epub|type~="subchapter"] + p{
-	text-indent: 0;
-}
-
-*[epub|type~="z3998:poem"] p{
-	text-align: left;
-	text-indent: 0;
-}
-
-*[epub|type~="z3998:poem"] p + p{
-	margin-top: 1em;
-}
-
-*[epub|type~="z3998:poem"] p span{
-	display: block;
-	text-indent: -1em;
-	padding-left: 1em;
-}
-
-*[epub|type~="z3998:poem"] br,
-*[epub|type~="z3998:song"] br{
-	display: none;
-}
-
-*[epub|type~="z3998:poem"] span.i1{
-	text-indent: 0;
-}
-
-*[epub|type~="z3998:poem"] span.i2{
-	text-indent: 1em;
-}
-
 footer{
 	margin-top: 1em;
 	text-align: right;
@@ -131,14 +89,6 @@ span[epub|type~="subtitle"]{
 abbr.era,
 abbr.initialism{
 	font-variant: all-small-caps;
-}
-
-section[epub|type~="rearnotes"] > ol > li > p:first-child{
-	text-indent: 0;
-}
-
-section[epub|type~="rearnotes"] > ol > li{
-	margin: 1em 0;
 }
 
 abbr.name{
