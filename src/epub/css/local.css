@@ -86,8 +86,7 @@ span[epub|type~="subtitle"]{
 	font-weight: normal;
 }
 
-abbr.era,
-abbr.initialism{
+abbr.era{
 	font-variant: all-small-caps;
 }
 
