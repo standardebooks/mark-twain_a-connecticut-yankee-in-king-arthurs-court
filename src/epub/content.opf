@@ -3,7 +3,7 @@
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/mark-twain/a-connecticut-yankee-in-king-arthurs-court</dc:identifier>
 		<dc:date>2015-06-07T20:22:08Z</dc:date>
-		<meta property="dcterms:modified">2016-01-08T06:33:50Z</meta>
+		<meta property="dcterms:modified">2016-01-12T00:39:06Z</meta>
 		<dc:rights>Public domain; see the Unlicense included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -36,7 +36,7 @@
 		<meta property="meta-auth" refines="#subject-8">http://www.gutenberg.org/ebooks/86</meta>
 		<meta property="se:subject">Fantasy</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">An engineer from 19th-century Connecticut is sent back in time to King Arthur's medieval England.</dc:description>
+		<dc:description id="description">An engineer from 19th-century Connecticut is sent back in time to King Arthur’s medieval England.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;A Connecticut Yankee in King Arthur&amp;rsquo;s Court&lt;/i&gt; is one of Mark Twain&amp;rsquo;s most enduring novels.  During a stay at a modern-day English castle, the narrator meets a mysterious stranger.  The stranger, Hank Morgan, is an engineer from Connecticut, and proceeds to weave a satirical, biting, and hilarious tale of how he traveled back in time to find himself in the court of the legendary King Arthur.  There he uses his modern-day knowledge to convince the locals that he&amp;rsquo;s a powerful magician.  As the book progresses, Hank modernizes&amp;mdash;and Americanizes&amp;mdash;the lives of the locals.&lt;/p&gt;
