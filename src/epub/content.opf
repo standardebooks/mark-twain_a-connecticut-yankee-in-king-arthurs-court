@@ -3,8 +3,8 @@
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/mark-twain/a-connecticut-yankee-in-king-arthurs-court</dc:identifier>
 		<dc:date>2015-06-07T20:22:08Z</dc:date>
-		<meta property="dcterms:modified">2017-07-27T06:34:38Z</meta>
-		<meta property="se:revision-number">43</meta>
+		<meta property="dcterms:modified">2017-07-27T17:02:58Z</meta>
+		<meta property="se:revision-number">44</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -40,8 +40,8 @@
 		<dc:description id="description">An engineer from 19th-century Connecticut is sent back in time to King Arthur’s medieval England.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;&lt;i&gt;A Connecticut Yankee in King Arthur’s Court&lt;/i&gt; is one of Mark Twain’s most enduring novels.  During a stay at a modern-day English castle, the narrator meets a mysterious stranger.  The stranger, Hank Morgan, is an engineer from Connecticut, and proceeds to weave a satirical, biting, and hilarious tale of how he traveled back in time to find himself in the court of the legendary King Arthur.  There he uses his modern-day knowledge to convince the locals that he’s a powerful magician.  As the book progresses, Hank modernizes—and Americanizes—the lives of the locals.&lt;/p&gt;
-			&lt;p&gt;Twain’s talent for humor and satire are on full display in &lt;i&gt;Yankee&lt;/i&gt;, and he doesn’t waste the opportunity to use Hank as a mouthpiece for his views on things like politics, capitalism, and justice.  Many consider it to be his best work.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;A Connecticut Yankee in King Arthur’s Court&lt;/i&gt; is one of Mark Twain’s most enduring novels. During a stay at a modern-day English castle, the narrator meets a mysterious stranger. The stranger, Hank Morgan, is an engineer from Connecticut, and proceeds to weave a satirical, biting, and hilarious tale of how he traveled back in time to find himself in the court of the legendary King Arthur. There he uses his modern-day knowledge to convince the locals that he’s a powerful magician. As the book progresses, Hank modernizes—and Americanizes—the lives of the locals.&lt;/p&gt;
+			&lt;p&gt;Twain’s talent for humor and satire are on full display in &lt;i&gt;Yankee&lt;/i&gt;, and he doesn’t waste the opportunity to use Hank as a mouthpiece for his views on things like politics, capitalism, and justice. Many consider it to be his best work.&lt;/p&gt;
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-US</dc:language>
