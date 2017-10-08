@@ -30,8 +30,7 @@ footer{
 	text-align: center;
 }
 
-.newspaper p,
-table + p{
+.newspaper p{
 	text-indent: 0;
 }
 
