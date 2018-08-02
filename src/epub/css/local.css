@@ -1,11 +1,6 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
-b{
-	font-weight: normal;
-	font-variant: small-caps;
-}
-
 footer{
 	margin-top: 1em;
 	text-align: right;
@@ -66,9 +61,7 @@ table thead{
 	font-variant: small-caps;
 }
 
-.proclamation header p{
-	text-indent: 0;
-	text-align: center;
+.proclamation header{
 	font-variant: small-caps;
 }
 
@@ -87,8 +80,4 @@ span[epub|type~="subtitle"]{
 
 abbr.era{
 	font-variant: all-small-caps;
-}
-
-abbr.name{
-	white-space: nowrap;
 }
