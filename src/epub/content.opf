@@ -27,8 +27,8 @@
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.0 Level AA.</meta>
 		<link href="onix.xml" rel="onix-record"/>
-		<dc:title id="title">A Connecticut Yankee in King Arthur's Court</dc:title>
-		<meta property="file-as" refines="#title">Connecticut Yankee in King Arthur's Court, A</meta>
+		<dc:title id="title">A Connecticut Yankee in King Arthur’s Court</dc:title>
+		<meta property="file-as" refines="#title">Connecticut Yankee in King Arthur’s Court, A</meta>
 		<dc:subject id="subject-1">Fantasy fiction</dc:subject>
 		<dc:subject id="subject-2">Satire</dc:subject>
 		<dc:subject id="subject-3">Knights and knighthood -- Fiction</dc:subject>
