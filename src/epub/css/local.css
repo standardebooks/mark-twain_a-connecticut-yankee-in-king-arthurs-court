@@ -20,32 +20,32 @@ footer{
 	font-variant: all-small-caps;
 }
 
-.newspaper,
-.gossip p:first-child{
+#chapter-26 blockquote:first-of-type,
+#chapter-26 blockquote:nth-of-type(2) p:first-child{
 	text-align: center;
 }
 
-.newspaper p{
+#chapter-26 blockquote:first-of-type p{
 	text-indent: 0;
 }
 
-.newspaper p + p{
+#chapter-26 blockquote:first-of-type p + p{
 	border-top: solid;
 	margin-top: .25em;
 	padding-top: .25em;
 }
 
-.newspaper .headline{
+.headline{
 	font-size: 1.5em;
 	text-transform: uppercase;
 }
 
-.newspaper .subheadline{
+.subheadline{
 	font-size: 1.2em;
 	font-variant: small-caps;
 }
 
-.misprint{
+#chapter-26 blockquote:first-of-type span{
 	vertical-align: sub;
 }
 
