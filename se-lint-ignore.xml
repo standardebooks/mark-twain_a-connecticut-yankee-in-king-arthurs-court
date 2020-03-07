@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="chapter-26.xhtml">
+		<ignore>
+			<code>t-007</code>
+			<reason>Ampersands are part of intentional typos so no-break spaces are not needed.</reason>
+		</ignore>
+		<ignore>
+			<code>t-008</code>
+			<reason>Ampersands are part of intentional typos so no-break spaces are not needed.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
