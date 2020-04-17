@@ -3,7 +3,13 @@
 	<file path="chapter-26.xhtml">
 		<ignore>
 			<code>t-029</code>
-			<reason>Incorrect capitalization is preserved as a matter of prose style.</reason>
+			<reason>Broken punctuation is part of hte prose style.</reason>
+		</ignore>
+	</file>
+	<file path="chapter-39.xhtml">
+		<ignore>
+			<code>t-033</code>
+			<reason>Broken dash is part of the prose style.</reason>
 		</ignore>
 	</file>
 </se-lint-ignore>
