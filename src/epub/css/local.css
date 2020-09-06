@@ -73,11 +73,6 @@ table thead{
 	text-indent: 0;
 }
 
-span[epub|type~="subtitle"]{
-	display: block;
-	font-weight: normal;
-}
-
 abbr.era{
 	font-variant: all-small-caps;
 }
