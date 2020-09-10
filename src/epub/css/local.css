@@ -7,12 +7,12 @@ footer{
 }
 
 .bulletin,
-[epub:type~="z3998:signature"]{
+[epub|type~="z3998:signature"]{
 	font-variant: small-caps;
 }
 
 .proclamation footer,
-[epub:type~="z3998:signature"]{
+[epub|type~="z3998:signature"]{
 	text-align: right;
 }
 
