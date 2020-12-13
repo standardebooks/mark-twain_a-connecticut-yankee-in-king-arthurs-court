@@ -11,7 +11,6 @@ footer{
 	font-variant: small-caps;
 }
 
-.proclamation footer,
 [epub|type~="z3998:signature"]{
 	text-align: right;
 }
@@ -63,10 +62,6 @@ table thead{
 
 .proclamation header{
 	font-variant: small-caps;
-}
-
-.proclamation footer{
-	margin: 0;
 }
 
 .proclamation p{
