@@ -30,8 +30,9 @@ footer{
 
 #chapter-26 blockquote:first-of-type p + p{
 	border-top: solid;
-	margin-top: .25em;
-	padding-top: .25em;
+	border-width: 1px;
+	margin-top: .5em;
+	padding-top: .5em;
 }
 
 .headline{
