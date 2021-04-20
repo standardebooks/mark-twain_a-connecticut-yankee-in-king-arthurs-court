@@ -67,6 +67,14 @@ footer{
 	vertical-align: sub;
 }
 
+#chapter-26 table td{
+	text-align: center;
+}
+
+#chapter-26 table td:nth-of-type(2){
+	text-align: initial;
+}
+
 table{
 	margin: 1em auto;
 }
