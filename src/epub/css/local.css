@@ -87,6 +87,10 @@ table thead{
 	font-variant: small-caps;
 }
 
+#chapter-40 table tr:last-child td{
+	padding-top: 1em;
+}
+
 .proclamation header{
 	font-variant: small-caps;
 }
