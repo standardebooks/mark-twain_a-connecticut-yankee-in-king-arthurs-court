@@ -63,6 +63,10 @@ footer{
 	font-variant: small-caps;
 }
 
+#chapter-23 blockquote{
+	word-break: break-all;
+}
+
 #chapter-26 blockquote:first-of-type span{
 	vertical-align: sub;
 }
