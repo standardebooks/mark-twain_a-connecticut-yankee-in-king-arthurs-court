@@ -27,6 +27,7 @@ footer{
 
 #chapter-23 blockquote{
 	font-family: "Standard Blackletter";
+	word-break: break-all;
 }
 
 #chapter-23 blockquote:nth-of-type(2) p{
@@ -61,10 +62,6 @@ footer{
 .subheadline{
 	font-size: 1.2em;
 	font-variant: small-caps;
-}
-
-#chapter-23 blockquote{
-	word-break: break-all;
 }
 
 #chapter-26 blockquote:first-of-type span{
