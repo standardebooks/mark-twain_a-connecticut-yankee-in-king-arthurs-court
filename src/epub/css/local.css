@@ -88,6 +88,11 @@ table thead{
 	font-variant: small-caps;
 }
 
+#chapter-32 table td:last-child{
+	text-align: right;
+	font-variant-numeric: tabular-nums;
+}
+
 #chapter-40 table tr:last-child td{
 	padding-top: 1em;
 }
