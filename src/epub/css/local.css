@@ -89,8 +89,8 @@ table thead{
 }
 
 #chapter-32 table td:last-child{
-	text-align: right;
 	font-variant-numeric: tabular-nums;
+	text-align: right;
 }
 
 #chapter-40 table tr:last-child td{
