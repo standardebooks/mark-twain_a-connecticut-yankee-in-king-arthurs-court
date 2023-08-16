@@ -6,7 +6,7 @@
 			<reason>Broken punctuation is part of the prose style.</reason>
 		</ignore>
 		<ignore>
-			<code>t-042</code>
+			<code>y-029</code>
 			<reason>Matched text is a deliberate typo.</reason>
 		</ignore>
 	</file>
@@ -16,7 +16,7 @@
 			<reason>Broken dash is part of the prose style.</reason>
 		</ignore>
 		<ignore>
-			<code>t-042</code>
+			<code>y-029</code>
 			<reason>Matched text is a deliberate typo.</reason>
 		</ignore>
 	</file>
