@@ -97,12 +97,16 @@ table thead{
 	padding-top: 1em;
 }
 
-.proclamation header{
+header{
 	font-variant: small-caps;
 }
 
 .proclamation p{
 	text-indent: 0;
+}
+
+#prologue header{
+	margin: 3em;
 }
 
 [epub|type~="se:era"]{
