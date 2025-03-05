@@ -112,3 +112,9 @@ header{
 [epub|type~="se:era"]{
 	font-variant: all-small-caps;
 }
+
+#chapter-26 .headline span,
+#chapter-26 .subheadline span{
+	display: inline-block;
+	transform: rotate(180deg);
+}
