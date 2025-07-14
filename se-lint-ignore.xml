@@ -9,6 +9,10 @@
 			<code>y-029</code>
 			<reason>Matched text is a deliberate typo.</reason>
 		</ignore>
+		<ignore>
+			<code>y-035</code>
+			<reason>Matched text is a deliberate typo.</reason>
+		</ignore>
 	</file>
 	<file path="chapter-39.xhtml">
 		<ignore>
