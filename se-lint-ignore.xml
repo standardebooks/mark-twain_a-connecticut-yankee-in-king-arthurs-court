@@ -1,26 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <se-lint-ignore>
 	<file path="chapter-26.xhtml">
-		<ignore>
-			<code>t-029</code>
+		<ignore code="t-029">
 			<reason>Broken punctuation is part of the prose style.</reason>
 		</ignore>
-		<ignore>
-			<code>y-029</code>
+		<ignore code="y-029">
 			<reason>Matched text is a deliberate typo.</reason>
 		</ignore>
-		<ignore>
-			<code>y-035</code>
+		<ignore code="y-035">
 			<reason>Matched text is a deliberate typo.</reason>
 		</ignore>
 	</file>
 	<file path="chapter-39.xhtml">
-		<ignore>
-			<code>t-033</code>
+		<ignore code="t-033">
 			<reason>Broken dash is part of the prose style.</reason>
 		</ignore>
-		<ignore>
-			<code>y-029</code>
+		<ignore code="y-029">
 			<reason>Matched text is a deliberate typo.</reason>
 		</ignore>
 	</file>
