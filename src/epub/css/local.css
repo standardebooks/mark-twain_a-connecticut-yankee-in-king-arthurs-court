@@ -80,12 +80,14 @@ table{
 	margin: 1em auto;
 }
 
-table td{
+table td,
+table th{
 	padding: .5em;
 }
 
-table thead{
+table thead th{
 	font-variant: small-caps;
+	font-weight: normal;
 }
 
 #chapter-32 table td:last-child{
