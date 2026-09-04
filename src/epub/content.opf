@@ -32,12 +32,12 @@
 		<meta property="file-as" refines="#title">Connecticut Yankee in King Arthur’s Court, A</meta>
 		<dc:subject id="subject-1">Fantasy fiction</dc:subject>
 		<dc:subject id="subject-2">Satire</dc:subject>
-		<dc:subject id="subject-3">Knights and knighthood -- Fiction</dc:subject>
-		<dc:subject id="subject-4">Arthurian romances -- Adaptations</dc:subject>
-		<dc:subject id="subject-5">Time travel -- Fiction</dc:subject>
-		<dc:subject id="subject-6">Americans -- Great Britain -- Fiction</dc:subject>
-		<dc:subject id="subject-7">Kings and rulers -- Fiction</dc:subject>
-		<dc:subject id="subject-8">Britons -- Fiction</dc:subject>
+		<dc:subject id="subject-3">Knights and knighthood--Fiction</dc:subject>
+		<dc:subject id="subject-4">Arthurian romances--Adaptations</dc:subject>
+		<dc:subject id="subject-5">Time travel--Fiction</dc:subject>
+		<dc:subject id="subject-6">Americans--Great Britain--Fiction</dc:subject>
+		<dc:subject id="subject-7">Kings and rulers--Fiction</dc:subject>
+		<dc:subject id="subject-8">Britons--Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85047114</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
